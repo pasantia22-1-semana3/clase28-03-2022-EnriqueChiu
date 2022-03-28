@@ -1,0 +1,20 @@
+
+
+###
+GET http://localhost:3000/api/v1/home
+
+
+###
+GET http://localhost:3000/api/v1/crime/getAllTypeCrime
+
+
+###
+GET http://localhost:3000/api/v1/crime/getStatisticsYear
+
+
+###
+GET http://localhost:3000/api/v1/crime/getCrimeSex
+
+
+###
+GET http://localhost:3000/api/v1/crime/getCrimeAll
